@@ -1,0 +1,244 @@
+@media screen and (max-width:1200px) {
+     .home .nav{
+        width: 80%;
+    }
+    .service-icon{
+        width: 25%;
+    }
+    .services .container{
+        width: 90%;
+    }
+        .about{
+            width: 90%;
+            margin: 50px;}
+    .about-img{
+        width: 35%;
+        margin: 0;
+    }
+    .about .hello{
+        padding-left: 50px;
+        width: 55%;
+    }
+    .hello h2::after{
+        height: 90%;
+        top:2;
+    }
+    .hello h2{
+        font-size: 32px;
+        margin-bottom: 15px;
+    }
+    .hello p{
+        font-size: 17px;
+        padding-bottom: 15px;
+    }
+    .about button{
+        margin-top: 20px;
+    }
+    .hello .info-about ul li{
+     font-size: 16px;
+     margin-top: 20px;
+     width: 50%;
+    }
+    .form .top-form{
+        width: 42.9%;
+     }
+     .form{width: 100%;}
+      .form .mid-form{
+        width: 90%;
+      }
+      .form .bot-form{
+        width: 90%;
+      }
+}
+@media screen and (max-width:992px) {
+ .home .nav{
+    width: 95%;
+ }
+    .home .nav-right{
+        width:80%
+    }
+    .home .nav  .logo{
+        width: 15%;
+    }
+    .service-icon{
+        width: 25%;
+
+    }
+    .services .container{
+        width: 90%;
+    }
+        .about{
+            width: 90%;
+            margin: 50px;}
+    .about-img{
+        width: 40%;
+        margin: 0;
+    }
+    .about .hello{
+        padding-left: 30px;
+        width: 60%;
+    }
+    .hello h2::after{
+        height: 90%;
+        top:2;
+    }
+    .hello h2{
+        font-size: 32px;
+        margin-bottom: 15px;
+    }
+    .hello p{
+        font-size: 17px;
+        padding-bottom: 15px;
+    }
+    .about button{
+        margin-top: 20px;
+    }
+    .hello .info-about ul li{
+     font-size: 16px;
+     margin-top: 20px;
+     width: 50%;
+    }
+    .form .top-form{
+        width: 42.3%;
+     }
+     .form{width: 100%;}
+      .form .mid-form{
+        width: 90%;
+      }
+      .form .bot-form{
+        width: 90%;
+      }
+}
+@media screen and (max-width:768px) {
+ .home .nav{
+    width: 97%;
+ }
+    .home .nav-right li{
+        padding: 30px 6px
+    }
+    .home .nav-right{
+        width:90%
+    }
+    .home .nav  .logo{
+        width: 10%;
+    }
+    .service-icon{
+        width: 50%;
+    }
+    .about{
+            width: 90%;
+            margin: 50px;}
+    .about-img{
+        width: 40%;
+        margin: 0;
+    }
+    .about .hello{
+        padding-left: 20px;
+        width: 60%;
+    }
+    .hello h2::after{
+        height: 85%;
+        top:2;
+    }
+    .hello h2{
+        font-size: 26px;
+margin-bottom: 10px;
+    }
+    .hello p{
+        font-size: 13px;
+        padding-bottom: 10px;
+    }
+    .about button{
+        margin-top: 10px;
+    }
+    .hello .info-about ul li{
+     font-size: 14px;
+     margin-top: 5px;
+     width: 50%;
+    }
+      .Our-Portfolio .list-portfolio ul{
+        width: 80%;}
+        .Our-Portfolio .list-portfolio ul li{
+            padding: 10px 20px;
+         }
+         .Our-Portfolio .img-port1{
+            width: 100%;
+            margin-bottom: 40px;
+         }
+         .Our-Portfolio .img-port2{
+            width: 100%;
+            margin-top: 0;
+        margin-bottom: 40px;
+         }
+         .feed-info{
+        width: 90%;
+     }
+     .form .top-form{
+        width: 41.5%;
+     }
+     .form{width: 100%;}
+      .form .mid-form{
+        width: 90%;
+      }
+      .form .bot-form{
+        width: 90%;
+      }
+     
+}
+@media screen and (max-width:600px) {
+    .home .nav{
+        width: 80%;
+    }
+   
+    .home .nav-right{
+       display: none;
+    }
+    .home .nav-right li{
+        padding: 30px 3px
+    }
+    .services .service-icon{
+        width: 100%;
+    }
+    .about-img{
+        width: 80%;
+        margin-left: 20px;
+        margin-bottom: 50px;
+    }
+    .about .hello{
+        width: 80%;
+        padding: 0;
+        margin-left: 20px;
+    }
+    .hello .info-about ul li{
+        width: 100%;
+    }
+     .Our-Portfolio .list-portfolio ul{
+        width: 90%;
+     }
+     .Our-Portfolio .list-portfolio ul li{
+        padding: 10px 10px;
+     }
+     .Our-Portfolio .img-port1{
+        width: 100%;
+        margin-bottom: 40px;
+     }
+     .Our-Portfolio .img-port2{
+        width: 100%;
+        margin-top: 0;
+        margin-bottom: 40px;
+     }
+     .num-item{
+        width: 100%;
+        margin-bottom: 20px;
+     }
+     .feed-info{
+        width: 80%;
+     }
+     .blog-video{
+        width: 100%;
+        margin-bottom: 30px;
+     }
+     .form .top-form{
+        width: 95%;
+     }
+}
